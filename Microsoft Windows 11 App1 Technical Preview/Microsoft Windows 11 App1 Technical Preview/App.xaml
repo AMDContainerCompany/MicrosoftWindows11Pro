@@ -1,0 +1,7 @@
+﻿<Application
+    x:Class="Microsoft_Windows_11_App1_Technical_Preview.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Microsoft_Windows_11_App1_Technical_Preview">
+
+</Application>
